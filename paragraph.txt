@@ -1,0 +1,5 @@
+For more information on working with SSH key passphrases, see "Working with SSH key passphrases".
+
+    Open Terminal .
+    Enter the following: $ ssh -T git@github.com # Attempts to ssh to GitHub. ...
+    Verify that the fingerprint in the message you see matches GitHub's RSA public key fingerprint.
