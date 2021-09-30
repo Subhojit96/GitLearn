@@ -1,1 +1,3 @@
 This is my first page
+
+CHeck Sample error with Git.
